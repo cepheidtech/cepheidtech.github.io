@@ -10,16 +10,26 @@ title: Contact sovenplus
 
 # Contact sovenplus
 
-## Socials
-I'm mainly "active" on the fediverse as [@sabirabstract@plasmatrap.com](https://plasmatrap.com/@sabirabstract). In the next few months I'll also start posting on [Bluesky](https://bsky.app/profile/sovenplus.bsky.social).
+!!! note
+    I have accounts on most of the major social media platforms using the @sovenplus username, many of which aren't shown here. The ones below are what I recommend you use.
 
-If you want to get in touch elsewhere, you can find me on [YouTube](https://www.youtube.com/@sovenplus) and on nearly all major platforms by searching for **@sovenplus**. But you'll probably get a slower response when reaching out using these ways.
+    If you need to verify an account is mine, just get in touch and ask.
 
-At some point I'll have a list of all the specific socials I have on this page.
+## Best ways to get in touch
+[Bluesky](https://bsky.app/profile/sovenplus.bsky.social), [my fediverse account (@sabirabstract@plasmatrap.com)](https://plasmatrap.com/@sabirabstract), Discord, or email (address at the bottom of the page).
+
+## Other socials
+You might be waiting longer for a response here, since I don't check these too often.
+
+- [YouTube](https://www.youtube.com/@sovenplus)
+- [Instagram](https://www.instagram.com/sovenplus/)
+- [Tumblr](https://www.tumblr.com/sovenplus)
+- [TikTok](https://www.tiktok.com/@sovenplus)
+
+## Messaging
+
+Discord: **sovenplus**
 
 ## Email
 
 [sovenplus@protonmail.com](mailto:sovenplus@protonmail.com)
-
-!!! note
-    My public contact email changed in August 2026. Please use the email shown above.

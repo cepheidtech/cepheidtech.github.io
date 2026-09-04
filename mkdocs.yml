@@ -12,9 +12,11 @@ theme:
   
   features:
     - header.autohide
+    - content.footnote.tooltips
 
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
 
